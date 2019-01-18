@@ -1,0 +1,59 @@
+.
+├── circle2gaussian
+│   ├── test
+│   │   ├── A
+│   │   │   └── circle.csv
+│   │   └── B
+│   │       └── gaussian.csv
+│   └── train
+│       ├── A
+│       │   └── circle.csv
+│       └── B
+│           └── gaussian.csv
+├── gaussian2gaussian
+│   ├── test
+│   │   ├── A
+│   │   │   └── gaussian.csv
+│   │   └── B
+│   │       └── gaussian.csv
+│   └── train
+│       ├── A
+│       │   └── gaussian.csv
+│       └── B
+│           └── gaussian.csv
+├── gaussian2spiral
+│   ├── test
+│   │   ├── A
+│   │   │   └── gaussian.csv
+│   │   └── B
+│   │       └── spiral.csv
+│   └── train
+│       ├── A
+│       │   └── gaussian.csv
+│       └── B
+│           └── spiral.csv
+├── halfMoon2gaussian
+│   ├── test
+│   │   ├── A
+│   │   │   └── halfMoon.csv
+│   │   └── B
+│   │       └── gaussian.csv
+│   └── train
+│       ├── A
+│       │   └── halfMoon.csv
+│       └── B
+│           └── gaussian.csv
+├── halfMoon2spiral
+│   ├── test
+│   │   ├── A
+│   │   │   └── halfMoon.csv
+│   │   └── B
+│   │       └── spiral.csv
+│   └── train
+│       ├── A
+│       │   └── halfMoon.csv
+│       └── B
+│           └── spiral.csv
+└── tree.txt
+
+35 directories, 21 files
